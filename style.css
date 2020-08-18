@@ -101,7 +101,7 @@ header .container {
 
 header img {
     display: block;
-    margin: 0 auto 20px;
+    margin: 0 auto 10px;
 }
 
 header .intro-text .name {
@@ -334,9 +334,9 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #5f2d8c;
     font-size: 20px;
-    color: #fff;
+    color: #5f2d8c;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -345,6 +345,24 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
+    border: solid 2px #fff;
+    color: #b7b6c1;
+    background: #fff;
+}
+
+.btn-outline-white {
+    margin-top: 15px;
+    border: solid 2px #fff;
+    font-size: 20px;
+    color: #fff;
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
+.btn-outline-white:hover,
+.btn-outline-white:focus,
+.btn-outline-white:active,
+.btn-outline-white.active {
     border: solid 2px #fff;
     color: #b7b6c1;
     background: #fff;
