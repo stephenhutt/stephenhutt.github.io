@@ -200,12 +200,12 @@ header .intro-text .skills {
         padding: 5px 0;
     }
     section h2 {
-        margin: 3%;
+
         font-size: 2.2em;
     }
 
     section h3 {
-        margin: 3%;
+
         font-size: 1.4em;
     }
 
@@ -213,9 +213,9 @@ header .intro-text .skills {
         display: none;
     }
 
-    #article .cv-item {
-        border-left: 10px;
-    }
+    /*#article .cv-item {*/
+    /*    border-left: 10px;*/
+    /*}*/
 
     #article .cv-item div {
         padding-left: 5px;
