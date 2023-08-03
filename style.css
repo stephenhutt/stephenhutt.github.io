@@ -868,8 +868,8 @@ tt, code, kbd, samp, pre {
     margin-top: 10px;
     margin-bottom: 20px;
     padding-bottom: 0px;
-    padding-top: 0px;
-    padding-left: 0px;
+    /*padding-top: 0px;*/
+    /*padding-left: 0px;*/
     border-left: 6px solid #3c3c3c;
 }
 
@@ -940,14 +940,14 @@ tt, code, kbd, samp, pre {
 @media(max-width:450px) {
 
 
-    #article .cv-item {
-        border-left: 0px;
-    }
+    /*#article .cv-item {*/
+    /*    border-left: 0px;*/
+    /*}*/
 
-    #article .cv-item div {
-        padding-left: 5px;
-        padding-right: 5px;
-    }
+    /*#article .cv-item div {*/
+    /*    padding-left: 5px;*/
+    /*    padding-right: 5px;*/
+    /*}*/
 
     #article .cv-item h4 {
         margin-top: 7px;
